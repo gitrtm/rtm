@@ -1,1 +1,1 @@
-# rtm
+#RTM - Robô Trader Mágico
